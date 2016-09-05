@@ -1,0 +1,53 @@
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\copLogAVL.exe.config
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.exe
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.xml
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.pdb
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\copLogAVL.exe
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\copLogAVL.pdb
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\copLogAVL.xml
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\HSDDB_x86.dll
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\nddsdotnet45.dll
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\bin\x86\Debug\COPData_type_x86.dll
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.vbprojResolveAssemblyReference.cache
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.copLogAVL.resources
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.Resources.resources
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.vbproj.GenerateResource.Cache
+C:\Users\COP\Desktop\COP LOG - Copy\copLogAVL\obj\x86\Debug\copLogAVL.slider.resources
+\\vmware-host\Shared Folders\COP (Source Code)\March-RABCAT\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.exe.config
+\\vmware-host\Shared Folders\COP (Source Code)\March-RABCAT\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.exe
+\\vmware-host\Shared Folders\COP (Source Code)\March-RABCAT\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.xml
+\\vmware-host\Shared Folders\COP (Source Code)\March-RABCAT\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.pdb
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\dll\COPData_type_x86.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\dll\HSDDB_x86.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddsc.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddscd.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddscore.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddscored.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddscpp.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddscppd.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\dll\nddsdotnet45.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\dll\nddsdotnet45d.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.exe.config
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.exe
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.pdb
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.xml
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\HSDDB_x86.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddsdotnet45.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\COPData_type_x86.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.vbprojResolveAssemblyReference.cache
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogSMS.copLogAVL.resources
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogSMS.Resources.resources
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogSMS.slider.resources
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.vbproj.GenerateResource.Cache
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.exe
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.xml
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.pdb
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\nddsdotnet45d.dll
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\Resources\LFAX.TTF
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\Resources\LFAXD.TTF
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\Resources\ARIALN.TTF
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\Resources\ARIALNB.TTF
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.exe.manifest
+C:\Users\COP\Desktop\COP LOG\copLogAVL\bin\x86\Debug\copLogAVL.application
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.exe.manifest
+C:\Users\COP\Desktop\COP LOG\copLogAVL\obj\x86\Debug\copLogAVL.application
